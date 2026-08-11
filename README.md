@@ -4,8 +4,7 @@
 🌱 Learning PostgreSQL, Python regression, and fullstack dev  
 💞️ Open to collabs on sensor data, data pipelines, or creative coding  
 📫 Reach me at: easywoo8080@gmail.com  
-😄 Pronouns: he/him  
-⚡ Fun fact: ...
+
 
 <!---
 easywoo8080/easywoo8080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
