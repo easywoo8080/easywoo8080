@@ -1,9 +1,9 @@
 
 👋 Hi, I’m @easywoo8080  
-👀 I like building real-time monitoring systems, solving algorithms  
-🌱 Learning PostgreSQL, Python regression, and fullstack dev  
-💞️ Open to collabs on sensor data, data pipelines, or creative coding  
-📫 Reach me at: easywoo8080@gmail.com  
+👀 실시간 모니터링 시스템 구축과 알고리즘 해결을 좋아합니다. 
+🌱 PostgreSQL, Python 회귀 분석, 풀스택 개발을 배우고 있습니다. 
+💞️ 센서 데이터, 데이터 파이프라인, 창의적인 코딩 관련 협업 환영합니다. 
+📫 연락처: easywoo8080@gmail.com
 
 
 <!---
